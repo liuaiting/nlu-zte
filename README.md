@@ -16,6 +16,7 @@ Hierarchical LSTM model
 **intent_filling**: sequence classification
 
 > Note: slots and intent don't have the "_UNK" value
+>
 > three intents: inform, confirm, reject
 
 ## File
